@@ -6,7 +6,6 @@
   list-style: none;
   font-family: 'roboto';
   font-weight: 300;
-
 }
 a{
   text-decoration: none;
@@ -18,7 +17,6 @@ a{
   margin: 0 auto;
   padding: 0 15px;
   min-height: 40px;
-  /* border: 1px solid red; */
 }
 .df{
   display: flex;
